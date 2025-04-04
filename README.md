@@ -39,6 +39,6 @@ A simple Windows application to lock and unlock files using a predefined passwor
 ## 📦 How to Use
 
 Clone the repository:
-
-bash
+```
 git clone https://github.com/moeinnrz/FileLocker.git
+```
