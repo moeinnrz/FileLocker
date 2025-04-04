@@ -41,4 +41,4 @@ A simple Windows application to lock and unlock files using a predefined passwor
 Clone the repository:
 
 bash
-git clone https://github.com/moeinnrz/Calculator_Windows_C-.git
+git clone https://github.com/moeinnrz/FileLocker.git
