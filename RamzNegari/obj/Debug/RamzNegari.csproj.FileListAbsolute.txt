@@ -1,0 +1,31 @@
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe.config
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\bin\Debug\RamzNegari.pdb
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.AssemblyReference.cache
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.SuggestedBindingRedirects.cache
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Form1.resources
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Properties.Resources.resources
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.GenerateResource.cache
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.CoreCompileInputs.cache
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.exe
+C:\Users\Moein Norouzi\source\repos\RamzNegari\RamzNegari\obj\Debug\RamzNegari.pdb
+G:\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe.config
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.exe
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.pdb
+G:\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe
+G:\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.pdb
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Form1.resources
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Properties.Resources.resources
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.GenerateResource.Cache
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.AssemblyReference.cache
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Form1.resources
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.Properties.Resources.resources
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.GenerateResource.cache
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.CoreCompileInputs.cache
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.exe
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.pdb
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe.config
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.exe
+E:\C# Projects\C# Projects\RamzNegari\RamzNegari\bin\Debug\RamzNegari.pdb
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.AssemblyReference.cache
+G:\C# Projects\RamzNegari\RamzNegari\obj\Debug\RamzNegari.csproj.CoreCompileInputs.cache

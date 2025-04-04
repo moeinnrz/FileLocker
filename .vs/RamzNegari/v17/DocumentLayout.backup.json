@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\C# Projects\\RamzNegari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|g:\\c# projects\\ramznegari\\ramznegari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|solutionrelative:ramznegari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|G:\\C# Projects\\RamzNegari\\ramznegari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|solutionrelative:ramznegari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|G:\\C# Projects\\RamzNegari\\ramznegari\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8176D6-43AE-4302-96A8-E1473A1618E8}|RamzNegari\\RamzNegari.csproj|solutionrelative:ramznegari\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RamzNegari\\Form1.Designer.cs",
+              "ToolTip": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.Designer.cs",
+              "RelativeToolTip": "RamzNegari\\Form1.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:33:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.cs",
+              "RelativeDocumentMoniker": "RamzNegari\\Form1.cs",
+              "ToolTip": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.cs [Design]",
+              "RelativeToolTip": "RamzNegari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:08:43.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.cs",
+              "RelativeDocumentMoniker": "RamzNegari\\Form1.cs",
+              "ToolTip": "G:\\C# Projects\\RamzNegari\\RamzNegari\\Form1.cs",
+              "RelativeToolTip": "RamzNegari\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T09:08:45.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
